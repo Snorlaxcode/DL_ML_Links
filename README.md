@@ -3,9 +3,9 @@ A list of links for reading on DL and ML. Categorised and used as references.
 
 
 Framework:
-1. https://docs.vllm.ai/en/latest/index.html. VLLM
+1. https://docs.vllm.ai/en/latest/index.html. VLLM - more on hosting/deployment.
 2. https://github.com/llmware-ai/llmware. LLMware
-3. https://www.llamaindex.ai/
+3. https://www.llamaindex.ai/. Llamaindex
 
 Blog Links:
 1. https://www.assemblyai.com/blog/introduction-to-variational-autoencoders-using-keras/. How autoencoders and VAE work explained beautifully visually and examples.
@@ -23,6 +23,9 @@ Blog Links:
 13. https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/. Basics of EDA.
 14. https://www.deeplearning.ai/resources/natural-language-processing/. Topics in NLP
 15. https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-deploy-python-web-app-azure-01. Python webapp on azure with mongodb.
+16. https://www.deeplearning.ai/courses/natural-language-processing-specialization/. A good overview of all the major topics in NLP. Good place to revise.
+17. https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/. Blog on EDA. Understand its different aspects better.
+18. https://www.javatpoint.com/pytorch-backpropagation-process-in-deep-neural-network. Pretty good mathematical understanding. Step wise.
 
 Code Snips:
 1. https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt. Ollama examples of building rag with langchain.
