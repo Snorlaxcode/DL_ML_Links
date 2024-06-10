@@ -26,6 +26,8 @@ Blog Links:
 16. https://www.deeplearning.ai/courses/natural-language-processing-specialization/. A good overview of all the major topics in NLP. Good place to revise.
 17. https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/. Blog on EDA. Understand its different aspects better.
 18. https://www.javatpoint.com/pytorch-backpropagation-process-in-deep-neural-network. Pretty good mathematical understanding. Step wise.
+19. https://github.com/OpenBMB/ChatDev - Multi Agent software company
+20. https://github.com/microsoft/autogen - Multi Agent coverse to solve tasks
 
 Code Snips:
 1. https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt. Ollama examples of building rag with langchain.
