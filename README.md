@@ -3,7 +3,7 @@ A list of links for reading on DL and ML. Categorised and used as references.
 
 
 Framework:
-1. https://docs.vllm.ai/en/latest/index.html. VLLM - more on hosting/deployment.
+1. https://docs.vllm.ai/en/latest/index.html. VLLM - more on hosting/deployment (TensorRT).
 2. https://github.com/llmware-ai/llmware. LLMware
 3. https://www.llamaindex.ai/. Llamaindex
 
@@ -28,6 +28,9 @@ Blog Links:
 18. https://www.javatpoint.com/pytorch-backpropagation-process-in-deep-neural-network. Pretty good mathematical understanding. Step wise.
 19. https://github.com/OpenBMB/ChatDev - Multi Agent software company
 20. https://github.com/microsoft/autogen - Multi Agent coverse to solve tasks
+21. https://www.assemblyai.com/blog/how-dall-e-2-actually-works/. Dall E 2 working explaination.
+22. https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions - Leetcode blind 75
+23. https://github.com/quanghuy0497/Cheatsheet-collection?tab=readme-ov-file - cheatsheets for ai/ml/probablity/linear algebra/numpy/pandas/keras etc
 
 Code Snips:
 1. https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt. Ollama examples of building rag with langchain.
