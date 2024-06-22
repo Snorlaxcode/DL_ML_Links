@@ -31,9 +31,19 @@ Blog Links:
 21. https://www.assemblyai.com/blog/how-dall-e-2-actually-works/. Dall E 2 working explaination.
 22. https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions - Leetcode blind 75
 23. https://github.com/quanghuy0497/Cheatsheet-collection?tab=readme-ov-file - cheatsheets for ai/ml/probablity/linear algebra/numpy/pandas/keras etc
+24. https://docs.trychroma.com/guides - vectordb croma guide
+25. https://medium.com/@hellorahulk/empowering-rag-using-kg-kg-rag-g-rag-b5c776b0923b - KG RAG article
+26. https://github.com/BaranziniLab/KG_RAG - KG RAG repo
+27. https://github.com/google/generative-ai-docs/blob/main/examples/gemini/python/vectordb_with_chroma/vectordb_with_chroma.ipynb - google genai docs, vectordb chroma
+28. https://learn.microsoft.com/en-in/azure/machine-learning/how-to-setup-mlops-azureml?view=azureml-api-2&tabs=azure-shell - MLOps azure setup
+29. https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2 - mp ops guide
+30.
 
 Code Snips:
 1. https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt. Ollama examples of building rag with langchain.
+2.  https://colab.research.google.com/github/kstathou/vector_engine/blob/master/notebooks/001_vector_search.ipynb#scrollTo=VEANywYAVyRi - vector search
+3. https://colab.research.google.com/drive/1QEzFyqnoFxq7LUGyP1vzR4iLt9PpCDXv?usp=sharing#scrollTo=ciUVixVxwiws - chroma db example
+4. https://colab.research.google.com/drive/181Kummxd8yOyRqFu8I0aqjs2aqnOy4Fu?usp=sharing#scrollTo=N-wEyOQzepiI - vector search
 
 
 Udemy Links:
