@@ -7,6 +7,17 @@ Framework:
 2. https://github.com/llmware-ai/llmware. LLMware
 3. https://www.llamaindex.ai/. Llamaindex
 
+Papers:
+1. https://arxiv.org/pdf/2010.11929 - Transformers for Image recognition at scale.
+2. https://arxiv.org/pdf/2106.09685 - LoRA paper
+3. https://arxiv.org/pdf/2307.08691 - Flash Attention 2 paper
+4. https://arxiv.org/pdf/2305.14314 - QLoRA paper
+5. https://arxiv.org/pdf/2207.00032 - DeepSpeed Inference
+6. https://arxiv.org/pdf/2402.01521 - K level reasoning with LLMs
+7. https://arxiv.org/pdf/2305.18290 - Direct Preference Optimization (DPO)
+8. https://arxiv.org/pdf/2404.03622 - Mind’s Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models
+9. https://arxiv.org/pdf/2003.01332 - Heterogeneous graph transformers
+
 Blog Links:
 1. https://www.assemblyai.com/blog/introduction-to-variational-autoencoders-using-keras/. How autoencoders and VAE work explained beautifully visually and examples.
 2. https://engineering.fb.com/2021/07/15/open-source/fsdp/. FSDP behind the hood how it works.
@@ -36,8 +47,12 @@ Blog Links:
 26. https://github.com/BaranziniLab/KG_RAG - KG RAG repo
 27. https://github.com/google/generative-ai-docs/blob/main/examples/gemini/python/vectordb_with_chroma/vectordb_with_chroma.ipynb - google genai docs, vectordb chroma
 28. https://learn.microsoft.com/en-in/azure/machine-learning/how-to-setup-mlops-azureml?view=azureml-api-2&tabs=azure-shell - MLOps azure setup
-29. https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2 - mp ops guide
-30.
+29. https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2 - ml ops guide
+30. https://learn.microsoft.com/en-us/azure/machine-learning/introduction?view=azureml-api-1 - ml ops azure api guide
+31. https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions - blind 75 questions list
+32. https://www.mlflow.org/docs/latest/llms/transformers/tutorials/fine-tuning/transformers-peft.html?highlight=huggingface - Fine-Tuning Open-Source LLM using QLoRA with MLflow and PEFT
+33. https://python.langchain.com/v0.1/docs/modules/chains/ - about chains, langchain documentation
+34. https://lightning.ai/lightning-ai/studios/document-search-and-retrieval-using-rag?view=public&section=recent - document search and retrieval using RAG
 
 Code Snips:
 1. https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt. Ollama examples of building rag with langchain.
@@ -46,7 +61,7 @@ Code Snips:
 4. https://colab.research.google.com/drive/181Kummxd8yOyRqFu8I0aqjs2aqnOy4Fu?usp=sharing#scrollTo=N-wEyOQzepiI - vector search
 
 
-Udemy Links:
+Tutorial Links:
 1. https://wipro.udemy.com/course/azure-machine-learning-mlops-mg/ MLOps. Azure SDKv2, CI CD Pipeline. 4.5 rating
 2. https://wipro.udemy.com/course/nlp-with-transformers/. Seems to have decent amount of fundamentals such as stemming, lemma, Unicode norm, encoder, decoder, sentiment, attention. 4.3 rating.
 3. https://wipro.udemy.com/course/langchain/. Langchain. Not sure how upto date. 4.6 rating.
@@ -54,6 +69,9 @@ Udemy Links:
 5. https://wipro.udemy.com/course/llms-mastery-complete-guide-to-transformers-generative-ai/learn/lecture/38249854#reviews. Pretty good for revision. Transformers details.
 6. https://wipro.udemy.com/course/mlops-course/learn/lecture/26351060#reviews. MLOps. CI/CD using Azure. 4.5 rating.
 7. https://wipro.udemy.com/course/mlops-bootcamp-mastering-ai-operations-for-success-aiops/learn/lecture/40086514#overview. AIOps. Streamlit, flask, linux, ci/cd, prometheus, docker, post productionizing, jenkins. 4.6 rating.
+8. https://wipro.udemy.com/course/llmops-masterclass-generative-ai-mlops-aiops/learn/lecture/42863204#overview - Some LLMOps course
+9. https://wipro.udemy.com/course/master-langchain-pinecone-openai-build-llm-applications/learn/lecture/38401956#overview - building llm apps
+10. https://www.youtube.com/watch?v=mrExsjcvF4o&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1&index=25 - Krish Naik Deployment of ML Models series
 
 Startups:
 1. https://cloud.google.com/startup/apply?utm_source=pmax&utm_medium=display&utm_campaign=FY21-Q1-global-demandgen-website-cs-startup_program_mc&utm_content=multi_pmax_FTI2&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5ig61JfDrFHiF6ECEdMp_3tt0fxCxVsOOoF57b7oTCxOl0OnKsFeNcaAgv_EALw_wcB&hl=en. Google Funding.
