@@ -17,6 +17,7 @@ Papers:
 7. https://arxiv.org/pdf/2305.18290 - Direct Preference Optimization (DPO)
 8. https://arxiv.org/pdf/2404.03622 - Mind’s Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models
 9. https://arxiv.org/pdf/2003.01332 - Heterogeneous graph transformers
+10. https://arxiv.org/pdf/2303.11366 - Reflexion paper (prompting)
 
 Blog Links:
 1. https://www.assemblyai.com/blog/introduction-to-variational-autoencoders-using-keras/. How autoencoders and VAE work explained beautifully visually and examples.
@@ -59,6 +60,17 @@ Blog Links:
 38. https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b - kaparthy article on backprop and why to understand it
 39. https://ml-cheatsheet.readthedocs.io/en/latest/, https://ml-cheatsheet.readthedocs.io/en/latest/classification_algos.html, https://ml-cheatsheet.readthedocs.io/en/latest/architectures.html - machine learning glossary, different classification algos, architectures
 40. https://mlu-explain.github.io/linear-regression/ - linear regression explained with visuals and in depth for intuition
+41. https://medium.com/@wq20211996/introduction-of-generative-ai-with-large-language-models-3-reinforcement-learning-and-2f8f56366008#:~:text=We%20have%20talked%20about%20several,and%20harmlessness)%20of%20the%20completions. - intro to LLMs has some details, can be skimmed.
+42. https://www.promptingguide.ai/research/llm-agents - LLM Agents. The website is a goldmine for building understanding!
+43. https://learnprompting.org/blog - think it used to be good but now paywalled? can check deep
+44. https://www.reddit.com/r/PromptEngineering/comments/120fyp1/useful_links_for_getting_started_with_prompt/ - another goldmine of links
+45. https://www.analyticsvidhya.com/blog/2023/09/power-of-llms-zero-shot-and-few-shot-prompting/ - few shot and zero shot prompting. seemed a bit confused idk?
+46. https://news.ycombinator.com/item?id=40640424 - ycombinator hacker news, 	The Geometry of Categorical and Hierarchical Concepts in Large Language Models
+47. https://github.com/nabarunbaruaAIML/Azure_Machine_Learning_Understanding - nabarun Azure ML git repo (private)
+48. https://christophergs.com/blog/running-open-source-llms-in-python - running open source llms, practical guide. looks very detailed.
+49. https://dr-arsanjani.medium.com/the-generative-ai-life-cycle-fb2271a70349 - gen ai lifecycle basic article seems decently detailed.
+50. https://www.datascience-pm.com/the-genai-life-cycle/ - some details of gen ai life cycle and how to manage and frameworks.
+51. https://www.datascience-pm.com/ai-product-owner/, https://www.datascience-pm.com/managing-generative-ai-projects/ - product and managing. more details on management side of gen ai.
 
 Code Snips:
 1. https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt. Ollama examples of building rag with langchain.
@@ -84,6 +96,7 @@ Tutorial Links:
 14. https://www.coursera.org/specializations/machine-learning-introduction - Machine Learning Specialisation
 15. https://www.coursera.org/specializations/deep-learning - Deep Learning specialisation
 16. https://www.coursera.org/learn/deep-neural-network/lecture/4ptp2/normalizing-activations-in-a-network - normalizing activations in a network
+17. https://www.youtube.com/watch?v=vGP4pQdCocw - brilliant for getting started with RAG and its components.
 
 Startups:
 1. https://cloud.google.com/startup/apply?utm_source=pmax&utm_medium=display&utm_campaign=FY21-Q1-global-demandgen-website-cs-startup_program_mc&utm_content=multi_pmax_FTI2&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5ig61JfDrFHiF6ECEdMp_3tt0fxCxVsOOoF57b7oTCxOl0OnKsFeNcaAgv_EALw_wcB&hl=en. Google Funding.
