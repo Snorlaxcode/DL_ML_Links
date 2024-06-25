@@ -1,4 +1,5 @@
 # DL_ML_Links
+Cleanup of open links and reading materials. Primarily centered around Gen AI, DL and ML related links
 A list of links for reading on DL and ML. Categorised and used as references.
 
 
