@@ -53,6 +53,12 @@ Blog Links:
 32. https://www.mlflow.org/docs/latest/llms/transformers/tutorials/fine-tuning/transformers-peft.html?highlight=huggingface - Fine-Tuning Open-Source LLM using QLoRA with MLflow and PEFT
 33. https://python.langchain.com/v0.1/docs/modules/chains/ - about chains, langchain documentation
 34. https://lightning.ai/lightning-ai/studios/document-search-and-retrieval-using-rag?view=public&section=recent - document search and retrieval using RAG
+35. https://cloud.google.com/learn/what-is-predictive-analytics - defines predictive analytics. answers questions related to it.
+36. https://dugas.ch/artificial_curiosity/GPT_architecture.html - GPT3 architecture explained on a napkin
+37. https://cs231n.stanford.edu/ - deep learning for CV course
+38. https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b - kaparthy article on backprop and why to understand it
+39. https://ml-cheatsheet.readthedocs.io/en/latest/, https://ml-cheatsheet.readthedocs.io/en/latest/classification_algos.html, https://ml-cheatsheet.readthedocs.io/en/latest/architectures.html - machine learning glossary, different classification algos, architectures
+40. https://mlu-explain.github.io/linear-regression/ - linear regression explained with visuals and in depth for intuition
 
 Code Snips:
 1. https://github.com/ollama/ollama/tree/main/examples/langchain-python-rag-privategpt. Ollama examples of building rag with langchain.
@@ -72,6 +78,12 @@ Tutorial Links:
 8. https://wipro.udemy.com/course/llmops-masterclass-generative-ai-mlops-aiops/learn/lecture/42863204#overview - Some LLMOps course
 9. https://wipro.udemy.com/course/master-langchain-pinecone-openai-build-llm-applications/learn/lecture/38401956#overview - building llm apps
 10. https://www.youtube.com/watch?v=mrExsjcvF4o&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1&index=25 - Krish Naik Deployment of ML Models series
+11. https://www.coursera.org/learn/nlp-sequence-models/lecture/KXoay/long-short-term-memory-lstm - LSTM and GRU Andrew NG
+12. https://www.coursera.org/learn/generative-ai-with-llms - gen ai llm course, looks interesting
+13. https://www.coursera.org/specializations/natural-language-processing - NLP specialisation
+14. https://www.coursera.org/specializations/machine-learning-introduction - Machine Learning Specialisation
+15. https://www.coursera.org/specializations/deep-learning - Deep Learning specialisation
+16. https://www.coursera.org/learn/deep-neural-network/lecture/4ptp2/normalizing-activations-in-a-network - normalizing activations in a network
 
 Startups:
 1. https://cloud.google.com/startup/apply?utm_source=pmax&utm_medium=display&utm_campaign=FY21-Q1-global-demandgen-website-cs-startup_program_mc&utm_content=multi_pmax_FTI2&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5ig61JfDrFHiF6ECEdMp_3tt0fxCxVsOOoF57b7oTCxOl0OnKsFeNcaAgv_EALw_wcB&hl=en. Google Funding.
